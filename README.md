@@ -70,7 +70,7 @@ cd daa-algorithms
 
 ## 🛠️ Technologies Used
 
-* Language: **C++ / Python / Java** (choose whichever languages you're using)
+* Language: **Python** (choose whichever languages you're using)
 * IDE: Any standard IDE (e.g., VSCode, PyCharm, CodeBlocks)
 * Git for version control
 
