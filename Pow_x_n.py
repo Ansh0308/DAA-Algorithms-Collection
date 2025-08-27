@@ -20,9 +20,20 @@ def Power(x, n):
         return temp * temp
     else:
         return x * temp * temp
+    
+print(Power(2, 5))  # Output: 32
+    
+def Power_n(x, n):
+    if n == 0:
+        return 1
+    
+    if n % 2 == 0:
+        return Power_n(x, n // 2) * Power_n(x, n // 2)
+    else:
+        return x * Power_n(x, n // 2) * Power_n(x, n // 2)
 
 
-
+# print(Power_n(2, 5))  # Output: 32
 
 def myPow(x: float, n: int) -> float:
     biForm = n
