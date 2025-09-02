@@ -1,105 +1,96 @@
-
 # 📚 DAA Algorithms Collection
 
 Welcome to the **Design and Analysis of Algorithms (DAA)** repository!  
-This repo is a **one-stop collection of classical algorithms**, neatly organized and implemented in **Python**.  
-Each algorithm is written with **clear explanations and comments** to make learning easier.
+This repo is a **comprehensive collection of classical algorithms**, organized and implemented in **Python**.  
+Each algorithm comes with **clear explanations and comments** for easy learning.
 
----
+***
 
-## 📌 Contents
+## 📌 Table of Contents
 
 ### 🔹 Divide and Conquer
-- Merge Sort (`MergeSort.py`, `MergeSortedArray.py`)
-- Quick Sort (`QuickSort.py`)
-- Binary Search (`BinarySearch.py`)
-- Matrix Chain Multiplication (`MatrixChainMul.py`)
-- Max-Min Problem (`MaxMin.py`)
-- Karatsuba Multiplication (`karatsuba.py`)
-- Power Function (xⁿ) (`Pow_x_n.py`)
+- **Merge Sort** &nbsp; (`MergeSort.py`, `MergeSortedArray.py`)
+- **Quick Sort** &nbsp; (`QuickSort.py`)
+- **Binary Search** &nbsp; (`BinarySearch.py`)
+- **Matrix Chain Multiplication** &nbsp; (`MatrixChainMul.py`)
+- **Max-Min Problem** &nbsp; (`MaxMin.py`)
+- **Karatsuba Multiplication** &nbsp; (`karatsuba.py`)
+- **Power Function (xⁿ)** &nbsp; (`Pow_x_n.py`)
 
 ### 🔹 Greedy Algorithms
-- Activity Selection (`ActivitySelection.py`)
-- Job Scheduling with Deadlines (`JobScheduling.py`)
-- Fractional Knapsack (`knapsackFractional.py`)
-- Minimum Coins Required (`MinCoinsReq.py`)
+- **Activity Selection** &nbsp; (`ActivitySelection.py`)
+- **Job Scheduling with Deadlines** &nbsp; (`JobScheduling.py`)
+- **Fractional Knapsack** &nbsp; (`knapsackFractional.py`)
+- **Minimum Coins Required** &nbsp; (`MinCoinsReq.py`)
 
 ### 🔹 Dynamic Programming
-- 0/1 Knapsack (`knapsack(0_1).py`)
-- Longest Common Subsequence (LCS) (`longestcommonSub.py`)
-- Matrix Chain Multiplication (`MatrixChainMul.py`)
-- Fibonacci using DP (`Fibonacci.py`)
+- **0/1 Knapsack** &nbsp; (`knapsack(0_1).py`)
+- **Longest Common Subsequence (LCS)** &nbsp; (`longestcommonSub.py`)
+- **Matrix Chain Multiplication** &nbsp; (`MatrixChainMul.py`)
+- **Fibonacci using DP** &nbsp; (`Fibonacci.py`)
 
 ### 🔹 Sorting Algorithms
-- Bubble Sort (`BubbleSort.py`)
-- Insertion Sort (`InsertionSort.py`)
-- Selection Sort (`SelectionSort.py`)
-- Counting Sort (Numeric + Alphabet) (`countingSort.py`, `countingSort_alpha.py`)
+- **Bubble Sort** &nbsp; (`BubbleSort.py`)
+- **Insertion Sort** &nbsp; (`InsertionSort.py`)
+- **Selection Sort** &nbsp; (`SelectionSort.py`)
+- **Counting Sort (Numeric + Alphabet)** &nbsp; (`countingSort.py`, `countingSort_alpha.py`)
 
 ### 🔹 Searching Algorithms
-- Linear Search (`LinearSearch.py`)
-- Binary Search (`BinarySearch.py`)
+- **Linear Search** &nbsp; (`LinearSearch.py`)
+- **Binary Search** &nbsp; (`BinarySearch.py`)
 
 ### 🔹 Mathematical / Utility Algorithms
-- Factorial (`factorial.py`)
-- Fibonacci (`Fibonacci.py`)
-- Max & Min (`MaxMin.py`)
-- Occurrence of Element (`OccurenceEle.py`)
-- Occurrence Odd Times (`OccurenceOdd.py`)
+- **Factorial** &nbsp; (`factorial.py`)
+- **Fibonacci** &nbsp; (`Fibonacci.py`)
+- **Max & Min** &nbsp; (`MaxMin.py`)
+- **Occurrence of Element** &nbsp; (`OccurenceEle.py`)
+- **Occurrence Odd Times** &nbsp; (`OccurenceOdd.py`)
 
----
+***
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
-   bash
-   git clone https://github.com/your-username/daa-algorithms.git
-   cd daa-algorithms
+**Clone the repository:**
+```bash
+git clone https://github.com/your-username/daa-algorithms.git
+cd daa-algorithms
+```
 
+**Browse Algorithms:**
+Each algorithm is an individual `.py` file for quick access and ease of study.
 
-2. **Browse Algorithms**
-   Each algorithm is organized as an individual `.py` file for quick access and learning.
-
----
+***
 
 ## 🛠️ Technologies Used
 
-* **Language:** Python 🐍
-* **IDE:** Any (VS Code, PyCharm, Jupyter, etc.)
-* **Version Control:** Git & GitHub
+- **Language:** Python 🐍
+- **IDE:** VS Code, PyCharm, Jupyter, etc.
+- **Version Control:** Git & GitHub
 
----
+***
 
 ## 🤝 Contributing
 
-We welcome contributions to improve this repository 🎉
+Contributions are welcome! 🎉 You can help by:
+- Improving code efficiency
+- Adding explanations or comments
+- Implementing new algorithms
 
-You can contribute by:
-
-* Enhancing code efficiency
-* Adding explanations / comments
-* Implementing new algorithms
-
-**Steps:**
-
+**How to Contribute:**
 1. Fork this repository
 2. Create a new branch
-
-   bash
+   ```bash
    git checkout -b feature-algorithm-name
- 
+   ```
 3. Commit your changes
-4. Push the branch and open a **Pull Request**
+4. Push your branch and open a **Pull Request**
 
----
+***
 
 ## 📖 License
 
-This project is licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
 
----
+***
 
-✨ Keep learning, keep coding, and crack your **DAA** subject like a pro! ✨
-
-```
-
+✨ Keep learning, keep coding, and ace your **DAA** subject like a pro! ✨
