@@ -1,9 +1,4 @@
-Got it ✅
-You already have a **README.md** for your GitHub repo, and you want me to **beautify it** and also **add missing contents** from the screenshot (like Activity Selection, Bubble Sort, Counting Sort, Fibonacci, Factorial, Insertion Sort, Min Coins, MaxMin, Occurrence problems, Pow(x,n), Selection Sort, etc.).
 
-Here’s the **updated and beautified README.md** code for your repo:
-
-````markdown
 # 📚 DAA Algorithms Collection
 
 Welcome to the **Design and Analysis of Algorithms (DAA)** repository!  
@@ -57,10 +52,10 @@ Each algorithm is written with **clear explanations and comments** to make learn
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
+   bash
    git clone https://github.com/your-username/daa-algorithms.git
    cd daa-algorithms
-````
+
 
 2. **Browse Algorithms**
    Each algorithm is organized as an individual `.py` file for quick access and learning.
@@ -90,9 +85,9 @@ You can contribute by:
 1. Fork this repository
 2. Create a new branch
 
-   ```bash
+   bash
    git checkout -b feature-algorithm-name
-   ```
+ 
 3. Commit your changes
 4. Push the branch and open a **Pull Request**
 
