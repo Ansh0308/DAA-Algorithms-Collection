@@ -52,8 +52,8 @@ Each algorithm comes with **clear explanations and comments** for easy learning.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/daa-algorithms.git
-cd daa-algorithms
+git clone https://github.com/Ansh0308/DAA-Algorithms-Collection.git
+cd DAA-Algorithms-Collection.git
 ```
 
 **Browse Algorithms:**
@@ -64,7 +64,7 @@ Each algorithm is an individual `.py` file for quick access and ease of study.
 ## 🛠️ Technologies Used
 
 - **Language:** Python 🐍
-- **IDE:** VS Code, PyCharm, Jupyter, etc.
+- **IDE:** VS Code.
 - **Version Control:** Git & GitHub
 
 ***
